@@ -1,12 +1,12 @@
 <!--
 ════════════════════════════════════════════════════════════════════════════
-  NEERAJ SINGH DANU  ·  GITHUB PROFILE README
+  NEERAJ SINGH DANU  ·  GITHUB PROFILE README   ·   v2 (futuristic build)
 ════════════════════════════════════════════════════════════════════════════
-  BEFORE YOU COMMIT — replace these 3 things (search for "REPLACE"):
-    1. REPLACE-REPO-1 ... REPLACE-REPO-4  -> your real repository URLs
-    2. Check the dates in the ROADMAP gantt section match your plan
-    3. Optional: enable the 2 GitHub Actions listed at the bottom of this file
-       (contribution snake + 3D isometric calendar). Instructions are there.
+  BEFORE YOU COMMIT — replace these 2 things:
+    1. Search "REPLACE-REPO" -> swap in your 4 real repository URLs
+    2. Check the ROADMAP gantt dates still match your plan (starts April 2025)
+  Optional: 2 GitHub Actions at the very bottom of this file add a real 3D
+  isometric contribution calendar + a contribution snake with YOUR data.
   Everything else works out of the box. No extra files needed.
 ════════════════════════════════════════════════════════════════════════════
 -->
@@ -16,7 +16,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,25:14313D,55:203A43,80:2C5364,100:8A2BE2&text=NEERAJ%20SINGH%20DANU&fontSize=54&fontColor=36BCF7&fontAlignY=34&animation=fadeIn&desc=DATA%20SCIENTIST%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20PYTHON%20%C2%B7%20SQL&descAlignY=53&descSize=18&descColor=FFFFFF" alt="Neeraj Singh Danu"/>
 
 <a href="https://github.com/NEERAJSINGHDANU07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=820&height=64&lines=Turning+raw+data+into+decisions+%F0%9F%A7%A0;Python+%C2%B7+SQL+%C2%B7+Statistics+%C2%B7+Machine+Learning;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve;Building+in+public%2C+one+dataset+at+a+time+%E2%9A%A1" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=820&height=64&lines=Turning+raw+data+into+decisions+%F0%9F%A7%A0;Python+%C2%B7+SQL+%C2%B7+Statistics+%C2%B7+Machine+Learning;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve;Building+in+public+since+April+2025+%E2%9A%A1" alt="Typing intro"/>
 </a>
 
 <br/>
@@ -33,32 +33,45 @@
 
 </div>
 
-<!-- ══════════════════════════ IDENTITY CARD ══════════════════════════ -->
+<!-- ═══════════════════ IDENTITY CARD / ACCESS CREDENTIAL ══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=560&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%91%A4%20IDENTITY%20CARD&fontSize=27&fontColor=36BCF7&fontAlignY=52&animation=fadeIn" alt="Identity Card"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=580&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%91%A4%20IDENTITY%20CARD&fontSize=26&fontColor=36BCF7&fontAlignY=52&animation=fadeIn" alt="Identity Card"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=700&color=00C2A8&center=true&vCenter=true&width=800&height=40&lines=%3E+SCANNING+CREDENTIAL+.+.+.;%3E+CREDENTIAL+VERIFIED+%C2%B7+ACCESS+GRANTED;%3E+CLEARANCE+%C2%B7+DATA+SCIENCE+DIVISION;%3E+HOLDER+%C2%B7+NEERAJ+SINGH+DANU+%C2%B7+SINCE+APRIL+2025" alt="Credential scan"/>
 
 </div>
 
-```yaml
-╭──────────────────────────────────────────────────────────────╮
-│  NEERAJ SINGH DANU                                           │
-╰──────────────────────────────────────────────────────────────╯
-
-name        : Neeraj Singh Danu
-role        : Aspiring Data Scientist
-location    : Haldwani, Uttarakhand, India
-focus       : [ Data Science, Machine Learning, Generative AI ]
-languages   : [ Python, SQL ]
-tools       : [ Pandas, NumPy, Scikit-learn, Power BI, MySQL, Git ]
-learning    : Statistics · Machine Learning · Deep Learning
-mission     : "Learn continuously. Build consistently. Improve relentlessly."
-open_to     : [ Internships, Junior DS roles, Open Source, Collaboration ]
-status      : ACTIVELY BUILDING
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ░▒▓ DATA SCIENCE DIVISION ▓▒░               ID · DS-2025-NSD-07     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ┌───────────────┐    NAME     NEERAJ SINGH DANU                    ║
+║   │ ▓▓▓▓▓▓▓▓▓▓▓▓▓ │    ROLE     Aspiring Data Scientist              ║
+║   │ ▓▓▓  NSD  ▓▓▓ │    BASE     Haldwani · Uttarakhand · India       ║
+║   │ ▓▓▓▓▓▓▓▓▓▓▓▓▓ │    SINCE    April 2025   ·   16 months in        ║
+║   └───────────────┘    STATUS   ACTIVE  ·  OPEN TO WORK              ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  CORE     Python  ·  SQL  ·  Statistics                              ║
+║  STACK    Pandas  ·  NumPy  ·  scikit-learn  ·  Matplotlib           ║
+║  BI       Power BI  ·  Excel  ·  MySQL                               ║
+║  TARGET   Data Scientist   ──>   AI Engineer                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  ▌│▌▌│▌│▌▌▌│▌│▌▌│▌▌│▌│▌▌▌│▌│▌▌│▌│▌▌▌│▌▌│▌│▌▌│▌│▌▌▌│▌│▌▌    NSD·2025  ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/%E2%97%88%20ID-VERIFIED-00C2A8?style=for-the-badge&labelColor=0F2027" alt="ID verified"/>
+<img src="https://img.shields.io/badge/ISSUED-APRIL%202025-36BCF7?style=for-the-badge&labelColor=0F2027" alt="Issued"/>
+<img src="https://img.shields.io/badge/TENURE-16%20MONTHS-8A2BE2?style=for-the-badge&labelColor=0F2027" alt="Tenure"/>
+<img src="https://img.shields.io/badge/CLEARANCE-OPEN%20TO%20WORK-F2C811?style=for-the-badge&labelColor=0F2027" alt="Clearance"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github&theme=dark&perline=4" alt="Core stack"/>
 
@@ -70,36 +83,45 @@ status      : ACTIVELY BUILDING
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=620&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%92%BB%20SYSTEM%20INITIALIZATION&fontSize=25&fontColor=00C2A8&fontAlignY=52&animation=fadeIn" alt="System Initialization"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=640&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%92%BB%20SYSTEM%20INITIALIZATION&fontSize=24&fontColor=00C2A8&fontAlignY=52&animation=fadeIn" alt="System Initialization"/>
+
+<br/>
+
+<b>▶ &nbsp;LIVE BOOT SEQUENCE</b>
+
+<br/><br/>
+
+<img width="92%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1400&pause=400&color=36BCF7&background=0D1117&multiline=true&repeat=true&width=880&height=300&lines=%24+.%2Finit_profile.sh+--mode%3Dproduction;%5B+OK+%5D+mounting+%2Fneeraj%2Fdata-science;%5B+OK+%5D+python+%C2%B7+pandas+%C2%B7+numpy+%C2%B7+matplotlib;%5B+OK+%5D+statistics+engine+%C2%B7+hypothesis+testing;%5B+OK+%5D+sql+connector+%C2%B7+mysql;%5B+OK+%5D+scikit-learn+pipeline+runtime;%5B+..+%5D+deep-learning+module+%C2%B7+compiling;%3E+SYSTEM+READY+%C2%B7+NEERAJ+SINGH+DANU+ONLINE" alt="Animated boot sequence"/>
+
+<br/>
+
+<b>▶ &nbsp;MODULE DIAGNOSTICS</b>
 
 </div>
 
-```console
-  ┌──────────────────────────────────────────────────────────────┐
-  │  root@neeraj-ds:~$ ./init_profile.sh --mode=production       │▓
-  ├──────────────────────────────────────────────────────────────┤▓
-  │                                                              │▓
-  │  > booting data scientist profile ................. ONLINE   │▓
-  │                                                              │▓
-  │    python .................. ███████████████████░  strong    │▓
-  │    statistics .............. ████████████████░░░░  building  │▓
-  │    sql ..................... ███████████████░░░░░  building  │▓
-  │    power bi ................ █████████████░░░░░░░  building  │▓
-  │    machine learning ........ ████████████░░░░░░░░  learning  │▓
-  │    deep learning ........... █████░░░░░░░░░░░░░░░  exploring │▓
-  │                                                              │▓
-  │  > loading pandas · numpy · sklearn ................... OK    │▓
-  │  > mounting notebooks/ ................................ OK    │▓
-  │  > cleaning datasets .................................. OK    │▓
-  │  > fitting models ..................................... OK    │▓
-  │  > extracting insight ................................. OK    │▓
-  │                                                              │▓
-  │  ✔ SYSTEM READY   ·   Neeraj Singh Danu is online            │▓
-  └──────────────────────────────────────────────────────────────┘▓
-    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  NEERAJ-DS  ·  KERNEL 2.6  ·  BUILD 2026.08                  [ ON ]  │▓
+├──────────────────────────────────────────────────────────────────────┤▓
+│  MODULE               LOAD                        STATE              │▓
+│  ──────────────────────────────────────────────────────────────      │▓
+│  python               ████████████████████░░  STABLE                 │▓
+│  pandas · numpy       ███████████████████░░░  STABLE                 │▓
+│  matplotlib           █████████████████░░░░░  STABLE                 │▓
+│  statistics           ████████████████░░░░░░  LOADING                │▓
+│  sql · mysql          ███████████████░░░░░░░  LOADING                │▓
+│  power-bi             █████████████░░░░░░░░░  LOADING                │▓
+│  scikit-learn         ████████████░░░░░░░░░░  COMPILING              │▓
+│  deep-learning        ████░░░░░░░░░░░░░░░░░░  QUEUED                 │▓
+│  ──────────────────────────────────────────────────────────────      │▓
+│  > 7 of 8 modules online   ·   0 fatal errors   ·   uptime 16 mo     │▓
+└──────────────────────────────────────────────────────────────────────┘▓
+  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 <div align="center">
+
+<sub><i>LOAD values are a stylised view of where each module sits on my roadmap — see the honest breakdown further down.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:36BCF7,100:00C2A8&height=3&section=header" width="100%" alt="divider"/>
 
@@ -119,7 +141,7 @@ status      : ACTIVELY BUILDING
 <h3>🧬 &nbsp;PROFILE</h3>
 <b>Neeraj Singh Danu</b>
 <br/><br/>
-<sub>Building a career at the intersection of data, statistics and intelligent systems. Self-taught, project-driven, consistent.</sub>
+<sub>Building a career at the intersection of data, statistics and intelligent systems. Self-taught, project-driven, consistent since April 2025.</sub>
 </td>
 <td width="25%" align="center" valign="top">
 <h3>🎯 &nbsp;ROLE</h3>
@@ -271,29 +293,31 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=660&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%9A%80%20MY%20JOURNEY%20FROM%20DATA%20TO%20AI&fontSize=23&fontColor=F2C811&fontAlignY=52&animation=fadeIn" alt="Journey"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=680&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%9A%80%20MY%20JOURNEY%20FROM%20DATA%20TO%20AI&fontSize=22&fontColor=F2C811&fontAlignY=52&animation=fadeIn" alt="Journey"/>
+
+<sub><i>Started April 2025 — every stage below is a real block of study, not a plan on paper.</i></sub>
 
 </div>
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontFamily':'Fira Code, monospace','fontSize':'14px','primaryColor':'#203A43','primaryTextColor':'#FFFFFF','primaryBorderColor':'#36BCF7','lineColor':'#36BCF7','clusterBkg':'#0F2027','clusterBorder':'#2C5364'}}}%%
 flowchart TD
-    subgraph FOUNDATION["🧱 &nbsp;FOUNDATION &nbsp;"]
+    subgraph FOUNDATION["🧱 &nbsp;FOUNDATION &nbsp;·&nbsp; APR 2025 - FEB 2026 &nbsp;"]
         direction LR
-        A[Python] --> B[NumPy & Pandas] --> C[Data Analysis]
+        A[Python] --> B[NumPy & Pandas] --> C[Data Analysis & EDA]
     end
 
-    subgraph ANALYTICS["📊 &nbsp;ANALYTICS &nbsp;"]
+    subgraph ANALYTICS["📊 &nbsp;ANALYTICS &nbsp;·&nbsp; 2026 &nbsp;"]
         direction LR
-        D[Statistics] --> E[SQL] --> F[Visualization & BI]
+        D[Statistics] --> E[SQL] --> F[Power BI & Visualization]
     end
 
-    subgraph MODELLING["🤖 &nbsp;MODELLING &nbsp;"]
+    subgraph MODELLING["🤖 &nbsp;MODELLING &nbsp;·&nbsp; 2026 - 2027 &nbsp;"]
         direction LR
         G[Machine Learning] --> H[Deep Learning] --> I[NLP]
     end
 
-    subgraph PRODUCTION["☁️ &nbsp;PRODUCTION &nbsp;"]
+    subgraph PRODUCTION["☁️ &nbsp;PRODUCTION &nbsp;·&nbsp; 2027 &nbsp;"]
         direction LR
         J[Generative AI] --> K[MLOps & Cloud]
     end
@@ -301,21 +325,26 @@ flowchart TD
     FOUNDATION --> ANALYTICS --> MODELLING --> PRODUCTION
     PRODUCTION --> L{{"🎯 &nbsp;DATA SCIENTIST → AI ENGINEER"}}
 
-    style A fill:#0F2027,stroke:#36BCF7,stroke-width:2px,color:#FFFFFF
-    style B fill:#14313D,stroke:#36BCF7,stroke-width:2px,color:#FFFFFF
-    style C fill:#1A3A48,stroke:#36BCF7,stroke-width:2px,color:#FFFFFF
-    style D fill:#203A43,stroke:#8A2BE2,stroke-width:2px,color:#FFFFFF
-    style E fill:#274953,stroke:#8A2BE2,stroke-width:2px,color:#FFFFFF
-    style F fill:#2C5364,stroke:#8A2BE2,stroke-width:2px,color:#FFFFFF
-    style G fill:#2C5364,stroke:#00C2A8,stroke-width:2px,color:#FFFFFF
-    style H fill:#203A43,stroke:#00C2A8,stroke-width:2px,color:#FFFFFF
-    style I fill:#14313D,stroke:#00C2A8,stroke-width:2px,color:#FFFFFF
+    style A fill:#0F2027,stroke:#00C2A8,stroke-width:3px,color:#FFFFFF
+    style B fill:#14313D,stroke:#00C2A8,stroke-width:3px,color:#FFFFFF
+    style C fill:#1A3A48,stroke:#00C2A8,stroke-width:3px,color:#FFFFFF
+    style D fill:#203A43,stroke:#36BCF7,stroke-width:3px,color:#FFFFFF
+    style E fill:#274953,stroke:#36BCF7,stroke-width:3px,color:#FFFFFF
+    style F fill:#2C5364,stroke:#36BCF7,stroke-width:3px,color:#FFFFFF
+    style G fill:#2C5364,stroke:#8A2BE2,stroke-width:2px,color:#FFFFFF
+    style H fill:#203A43,stroke:#8A2BE2,stroke-width:2px,color:#FFFFFF
+    style I fill:#14313D,stroke:#8A2BE2,stroke-width:2px,color:#FFFFFF
     style J fill:#0F2027,stroke:#F2C811,stroke-width:2px,color:#FFFFFF
     style K fill:#0F2027,stroke:#F2C811,stroke-width:2px,color:#FFFFFF
     style L fill:#000000,stroke:#36BCF7,stroke-width:4px,color:#36BCF7
 ```
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/%E2%97%8F%20DONE-FOUNDATION-00C2A8?style=flat-square&labelColor=0F2027" alt="done"/>
+<img src="https://img.shields.io/badge/%E2%97%8F%20IN%20PROGRESS-ANALYTICS%20%2B%20ML-36BCF7?style=flat-square&labelColor=0F2027" alt="in progress"/>
+<img src="https://img.shields.io/badge/%E2%97%8B%20AHEAD-DEEP%20LEARNING-8A2BE2?style=flat-square&labelColor=0F2027" alt="ahead"/>
+<img src="https://img.shields.io/badge/%E2%97%8B%20AHEAD-GENAI%20%2B%20MLOPS-F2C811?style=flat-square&labelColor=0F2027" alt="ahead"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:F2C811,100:36BCF7&height=3&section=header" width="100%" alt="divider"/>
 
@@ -325,56 +354,117 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=620&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%93%88%20LEARNING%20PROGRESS&fontSize=25&fontColor=36BCF7&fontAlignY=52&animation=fadeIn" alt="Learning Progress"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=660&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%93%88%20LEARNING%20PROGRESS&fontSize=24&fontColor=36BCF7&fontAlignY=52&animation=fadeIn" alt="Learning Progress"/>
 
-<sub><i>Self-tracked against my own roadmap — not a certification claim.</i></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=820&height=38&lines=%3E+SELF-TRACKED+AGAINST+MY+OWN+ROADMAP+%C2%B7+NOT+A+CERTIFICATION+CLAIM;%3E+16+MONTHS+LOGGED+%C2%B7+APRIL+2025+TO+TODAY;%3E+NEXT+UNLOCK+%C2%B7+DEEP+LEARNING+%C2%B7+JAN+2027" alt="Progress ticker"/>
+
+<br/>
+
+<b>▶ &nbsp;SKILL HUD</b>
 
 <br/><br/>
 
 <table>
 <tr>
 <th align="left">SKILL</th>
-<th align="center">DEPTH METER</th>
+<th align="center">DEPTH</th>
+<th align="center">6-MO TREND</th>
 <th align="center">STAGE</th>
 <th align="left">WHAT I CAN DO TODAY</th>
 </tr>
 <tr>
 <td><b>🐍 Python</b></td>
-<td><code>███████████████▓▓▒░</code></td>
+<td><code>█████████████████▓▒░</code></td>
+<td><code>▃▅▆▇▇▇</code></td>
 <td><img src="https://img.shields.io/badge/COMFORTABLE-36BCF7?style=flat-square&labelColor=0F2027" alt="comfortable"/></td>
-<td><sub>OOP, file & error handling, clean reusable scripts</sub></td>
+<td><sub>OOP, file &amp; error handling, clean reusable scripts</sub></td>
 </tr>
 <tr>
 <td><b>📐 Statistics</b></td>
-<td><code>█████████████▓▒░░░░</code></td>
+<td><code>█████████████▓▒░░░░░</code></td>
+<td><code>▂▃▄▅▆▇</code></td>
 <td><img src="https://img.shields.io/badge/BUILDING-8A2BE2?style=flat-square&labelColor=0F2027" alt="building"/></td>
 <td><sub>Hypothesis tests, distributions, regression, ANOVA</sub></td>
 </tr>
 <tr>
 <td><b>🗄 SQL</b></td>
-<td><code>████████████▓▒░░░░░</code></td>
+<td><code>████████████▓▒░░░░░░</code></td>
+<td><code>▂▃▄▅▅▆</code></td>
 <td><img src="https://img.shields.io/badge/BUILDING-8A2BE2?style=flat-square&labelColor=0F2027" alt="building"/></td>
 <td><sub>Joins, aggregations, subqueries, window functions</sub></td>
 </tr>
 <tr>
 <td><b>📊 Power BI</b></td>
-<td><code>██████████▓▒░░░░░░░</code></td>
+<td><code>██████████▓▒░░░░░░░░</code></td>
+<td><code>▁▂▃▄▅▆</code></td>
 <td><img src="https://img.shields.io/badge/BUILDING-8A2BE2?style=flat-square&labelColor=0F2027" alt="building"/></td>
 <td><sub>Data modelling, DAX basics, interactive dashboards</sub></td>
 </tr>
 <tr>
 <td><b>🤖 Machine Learning</b></td>
-<td><code>█████████▓▒░░░░░░░░</code></td>
+<td><code>█████████▓▒░░░░░░░░░</code></td>
+<td><code>▁▂▃▄▅▅</code></td>
 <td><img src="https://img.shields.io/badge/LEARNING-00C2A8?style=flat-square&labelColor=0F2027" alt="learning"/></td>
 <td><sub>End-to-end sklearn pipelines, CV, metric selection</sub></td>
 </tr>
 <tr>
 <td><b>🧠 Deep Learning</b></td>
-<td><code>████▒░░░░░░░░░░░░░░</code></td>
+<td><code>████▒░░░░░░░░░░░░░░░</code></td>
+<td><code>▁▁▂▂▃▄</code></td>
 <td><img src="https://img.shields.io/badge/EXPLORING-F2C811?style=flat-square&labelColor=0F2027" alt="exploring"/></td>
 <td><sub>Neural net fundamentals, backprop intuition</sub></td>
 </tr>
 </table>
+
+<br/>
+
+<b>▶ &nbsp;SKILL POSITIONING MAP</b>
+
+<sub><i>Where each skill sits — how deep I've gone versus how often I actually reach for it.</i></sub>
+
+</div>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Fira Code, monospace','fontSize':'13px','quadrant1Fill':'#14313D','quadrant2Fill':'#0F2027','quadrant3Fill':'#0B1A20','quadrant4Fill':'#203A43','quadrant1TextFill':'#00C2A8','quadrant2TextFill':'#8A2BE2','quadrant3TextFill':'#6E8A96','quadrant4TextFill':'#36BCF7','quadrantPointFill':'#F2C811','quadrantPointTextFill':'#FFFFFF','quadrantXAxisTextFill':'#36BCF7','quadrantYAxisTextFill':'#36BCF7','quadrantInternalBorderStrokeFill':'#2C5364','quadrantExternalBorderStrokeFill':'#36BCF7','quadrantTitleFill':'#36BCF7'}}}%%
+quadrantChart
+    title Skill map - depth versus how often I use it
+    x-axis Rarely Used --> Used Daily
+    y-axis Still Shallow --> Gone Deep
+    quadrant-1 Core Strengths
+    quadrant-2 Deep but Occasional
+    quadrant-3 On The Roadmap
+    quadrant-4 Daily but Growing
+    Python: [0.93, 0.86]
+    Pandas: [0.90, 0.80]
+    NumPy: [0.82, 0.72]
+    SQL: [0.70, 0.66]
+    Statistics: [0.58, 0.74]
+    Matplotlib: [0.76, 0.63]
+    Power BI: [0.52, 0.55]
+    Scikit-learn: [0.56, 0.50]
+    Deep Learning: [0.16, 0.20]
+    MLOps: [0.09, 0.11]
+```
+
+<div align="center">
+
+<b>▶ &nbsp;WHERE MY LEARNING HOURS GO</b>
+
+</div>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Fira Code, monospace','fontSize':'14px','pie1':'#36BCF7','pie2':'#8A2BE2','pie3':'#00C2A8','pie4':'#F2C811','pie5':'#2C5364','pie6':'#FF6B35','pieTitleTextColor':'#36BCF7','pieSectionTextColor':'#0F2027','pieStrokeColor':'#0F2027','pieOuterStrokeWidth':'2px','pieLegendTextColor':'#C9D1D9'}}}%%
+pie showData
+    title Study time split - last 6 months
+    "Machine Learning" : 27
+    "Statistics" : 22
+    "SQL + Data Modelling" : 18
+    "Power BI + Dashboards" : 14
+    "Python Engineering" : 13
+    "Deep Learning" : 6
+```
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00C2A8,100:F2C811&height=3&section=header" width="100%" alt="divider"/>
 
@@ -550,56 +640,85 @@ flowchart LR
 
 </div>
 
-<!-- ══════════════════════════ CURRENT STATUS ═════════════════════════ -->
+<!-- ═════════════════════ LIVE SYSTEM STATUS ══════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=640&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%9F%A2%20LIVE%20SYSTEM%20STATUS&fontSize=25&fontColor=00C2A8&fontAlignY=52&animation=fadeIn" alt="Live Status"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=660&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%9F%A2%20LIVE%20SYSTEM%20STATUS&fontSize=24&fontColor=00C2A8&fontAlignY=52&animation=fadeIn" alt="Live Status"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=00C2A8&center=true&vCenter=true&width=840&height=38&lines=%3E+MACHINE+LEARNING+%C2%B7+ACTIVE+%C2%B7+supervised+models+and+evaluation;%3E+STATISTICS+%C2%B7+ACTIVE+%C2%B7+inference+and+hypothesis+testing;%3E+SQL+%C2%B7+ACTIVE+%C2%B7+window+functions+and+query+tuning;%3E+POWER+BI+%C2%B7+BUILDING+%C2%B7+dashboards+from+real+datasets;%3E+DEEP+LEARNING+%C2%B7+LEARNING+%C2%B7+neural+network+fundamentals;%3E+MLOPS+%C2%B7+QUEUED+%C2%B7+scheduled+after+the+DL+block" alt="Telemetry ticker"/>
+
+</div>
+
+```
+╭──────────────────────────────────────────────────────────────────────╮
+│  MISSION CONTROL  ·  TELEMETRY  ·  LIVE                              │
+├──────────────────────────────────────────────────────────────────────┤
+│  learning streak    ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇░░  16 months            │
+│  modules active     ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇░░░░░░░░░  4 of 6               │
+│  public projects    ▇▇▇▇▇▇▇▇▇▇▇▇░░░░░░░░░░░░░░  4 shipped            │
+│  pipeline queued    ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇░░░░░░░░  6 ML builds          │
+╰──────────────────────────────────────────────────────────────────────╯
+```
+
+<div align="center">
 
 <table>
 <tr>
-<th align="left">TOPIC</th>
+<th align="left">SUBSYSTEM</th>
 <th align="center">STATE</th>
 <th align="center">SIGNAL</th>
-<th align="left">RIGHT NOW</th>
+<th align="center">PRIORITY</th>
+<th align="left">CURRENT TASK</th>
 </tr>
 <tr>
 <td><b>Machine Learning</b></td>
 <td><img src="https://img.shields.io/badge/ACTIVE-00C2A8?style=flat-square&labelColor=0F2027" alt="active"/></td>
-<td align="center">🟢</td>
-<td><sub>Supervised models · evaluation metrics</sub></td>
+<td align="center"><code>▁▃▅▇</code></td>
+<td align="center"><code>P0</code></td>
+<td><sub>Supervised models · metric selection</sub></td>
 </tr>
 <tr>
 <td><b>Statistics</b></td>
 <td><img src="https://img.shields.io/badge/ACTIVE-00C2A8?style=flat-square&labelColor=0F2027" alt="active"/></td>
-<td align="center">🟢</td>
+<td align="center"><code>▁▃▅▇</code></td>
+<td align="center"><code>P0</code></td>
 <td><sub>Inference · hypothesis testing</sub></td>
+</tr>
+<tr>
+<td><b>SQL</b></td>
+<td><img src="https://img.shields.io/badge/ACTIVE-00C2A8?style=flat-square&labelColor=0F2027" alt="active"/></td>
+<td align="center"><code>▁▃▅▇</code></td>
+<td align="center"><code>P1</code></td>
+<td><sub>Window functions · query tuning</sub></td>
 </tr>
 <tr>
 <td><b>Power BI</b></td>
 <td><img src="https://img.shields.io/badge/BUILDING-36BCF7?style=flat-square&labelColor=0F2027" alt="building"/></td>
-<td align="center">🟢</td>
+<td align="center"><code>▁▃▅░</code></td>
+<td align="center"><code>P1</code></td>
 <td><sub>Dashboards from real datasets</sub></td>
 </tr>
 <tr>
 <td><b>Deep Learning</b></td>
 <td><img src="https://img.shields.io/badge/LEARNING-F2C811?style=flat-square&labelColor=0F2027" alt="learning"/></td>
-<td align="center">🟡</td>
+<td align="center"><code>▁▃░░</code></td>
+<td align="center"><code>P2</code></td>
 <td><sub>Neural network fundamentals</sub></td>
 </tr>
 <tr>
 <td><b>Generative AI</b></td>
 <td><img src="https://img.shields.io/badge/EXPLORING-8A2BE2?style=flat-square&labelColor=0F2027" alt="exploring"/></td>
-<td align="center">🔵</td>
+<td align="center"><code>▁▃░░</code></td>
+<td align="center"><code>P2</code></td>
 <td><sub>Prompting · embeddings · RAG basics</sub></td>
 </tr>
 <tr>
 <td><b>MLOps</b></td>
 <td><img src="https://img.shields.io/badge/QUEUED-2C5364?style=flat-square&labelColor=0F2027" alt="queued"/></td>
-<td align="center">⚪</td>
-<td><sub>Next after the DL block</sub></td>
+<td align="center"><code>▁░░░</code></td>
+<td align="center"><code>P3</code></td>
+<td><sub>Scheduled after the DL block</sub></td>
 </tr>
 </table>
 
@@ -611,7 +730,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=660&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%8C%8C%20AI%20CONCEPT%20HIERARCHY&fontSize=24&fontColor=36BCF7&fontAlignY=52&animation=fadeIn" alt="Concept Hierarchy"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=680&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%8C%8C%20AI%20CONCEPT%20HIERARCHY&fontSize=23&fontColor=36BCF7&fontAlignY=52&animation=fadeIn" alt="Concept Hierarchy"/>
 
 </div>
 
@@ -703,29 +822,30 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=660&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%97%BA%20ROADMAP%202026%20%E2%86%92%202027&fontSize=25&fontColor=36BCF7&fontAlignY=52&animation=fadeIn" alt="Roadmap"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=680&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%97%BA%20ROADMAP%20APR%202025%20%E2%86%92%202027&fontSize=22&fontColor=36BCF7&fontAlignY=52&animation=fadeIn" alt="Roadmap"/>
 
 </div>
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontFamily':'Fira Code, monospace','fontSize':'13px','primaryColor':'#203A43','primaryTextColor':'#FFFFFF','primaryBorderColor':'#36BCF7','lineColor':'#36BCF7','sectionBkgColor':'#0F2027','altSectionBkgColor':'#14313D','gridColor':'#2C5364','doneTaskBkgColor':'#00C2A8','doneTaskBorderColor':'#00C2A8','activeTaskBkgColor':'#36BCF7','activeTaskBorderColor':'#FFFFFF','taskBkgColor':'#274953','taskBorderColor':'#8A2BE2','taskTextColor':'#FFFFFF','taskTextOutsideColor':'#C9D1D9','titleColor':'#36BCF7'}}}%%
 gantt
-    title DATA SCIENTIST → AI ENGINEER
+    title DATA SCIENTIST → AI ENGINEER  ·  started April 2025
     dateFormat YYYY-MM-DD
     axisFormat %b %Y
-    todayMarker stroke-width:3px,stroke:#F2C811,opacity:0.8
+    todayMarker stroke-width:3px,stroke:#F2C811,opacity:0.9
 
     section Foundation
-    Core Python              :done,    f1, 2026-01-01, 2026-04-30
-    NumPy · Pandas           :done,    f2, 2026-03-01, 2026-06-30
+    Core Python              :done,    f1, 2025-04-01, 2025-08-31
+    NumPy · Pandas           :done,    f2, 2025-07-01, 2025-12-31
+    Data Analysis · EDA      :done,    f3, 2025-10-01, 2026-02-28
 
     section Analytics
-    Statistics               :active,  a1, 2026-05-01, 2026-10-31
-    SQL                      :active,  a2, 2026-06-01, 2026-11-30
-    Power BI Dashboards      :active,  a3, 2026-08-01, 2026-12-31
+    Statistics               :active,  a1, 2026-01-01, 2026-10-31
+    SQL · MySQL              :active,  a2, 2026-02-01, 2026-11-30
+    Power BI Dashboards      :active,  a3, 2026-05-01, 2026-12-31
 
     section Modelling
-    Machine Learning         :active,  m1, 2026-07-01, 2027-01-31
+    Machine Learning         :active,  m1, 2026-06-01, 2027-01-31
     Portfolio ML Projects    :         m2, 2026-09-01, 2027-03-31
 
     section Deep Stack
@@ -739,7 +859,8 @@ gantt
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/2026-FOUNDATION%20%26%20ANALYTICS-36BCF7?style=for-the-badge&labelColor=0F2027" alt="2026"/>
+<img src="https://img.shields.io/badge/APR%202025-FOUNDATION%20LAID-00C2A8?style=for-the-badge&labelColor=0F2027" alt="2025"/>
+<img src="https://img.shields.io/badge/2026-ANALYTICS%20%26%20ML-36BCF7?style=for-the-badge&labelColor=0F2027" alt="2026"/>
 <img src="https://img.shields.io/badge/2027-DEEP%20LEARNING%20%26%20GENAI-8A2BE2?style=for-the-badge&labelColor=0F2027" alt="2027"/>
 <img src="https://img.shields.io/badge/GOAL-AI%20ENGINEER-F2C811?style=for-the-badge&labelColor=0F2027" alt="Goal"/>
 
@@ -751,7 +872,7 @@ gantt
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=600&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%8C%90%20CONNECT%20WITH%20ME&fontSize=26&fontColor=00C2A8&fontAlignY=52&animation=fadeIn" alt="Connect"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&width=620&color=0:0F2027,50:203A43,100:2C5364&text=%F0%9F%8C%90%20CONNECT%20WITH%20ME&fontSize=25&fontColor=00C2A8&fontAlignY=52&animation=fadeIn" alt="Connect"/>
 
 <br/>
 
@@ -763,7 +884,7 @@ gantt
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=00C2A8&center=true&vCenter=true&width=780&height=46&lines=Open+to+internships%2C+junior+DS+roles+and+collaboration;Always+happy+to+talk+data%2C+models+and+dashboards" alt="Open to work"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=00C2A8&center=true&vCenter=true&width=800&height=46&lines=Open+to+internships%2C+junior+DS+roles+and+collaboration;Always+happy+to+talk+data%2C+models+and+dashboards" alt="Open to work"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:36BCF7,100:8A2BE2&height=3&section=header" width="100%" alt="divider"/>
 
@@ -785,8 +906,7 @@ gantt
 ════════════════════════════════════════════════════════════════════════════
 
   These need a GitHub Action to generate an SVG into your own repo. Once the
-  workflow has run once, delete the surrounding comment markers around the
-  matching block below and the animation goes live with YOUR data.
+  workflow has run once, paste the matching snippet where you want it.
 
   ── A. 3D ISOMETRIC CONTRIBUTION CALENDAR ────────────────────────────────
   Create .github/workflows/profile-3d.yml with:
@@ -806,7 +926,7 @@ gantt
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                 USERNAME: ${{ github.repository_owner }}
-            - name: Commit & push
+            - name: Commit and push
               run: |
                 git config user.name  github-actions
                 git config user.email actions@github.com
@@ -814,15 +934,14 @@ gantt
                 git commit -m "generate 3d contrib" || exit 0
                 git push
 
-  Then run it once from the Actions tab, and un-comment:
+  Run it once from the Actions tab, then paste this in:
 
   <div align="center">
     <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
   </div>
 
   ── B. CONTRIBUTION SNAKE (your data, not someone else's) ─────────────────
-  Your old README pointed at platane/snk's own output branch, so it was
-  showing THEIR contributions. Create .github/workflows/snake.yml with:
+  Create .github/workflows/snake.yml with:
 
       name: Generate Snake
       on:
@@ -847,7 +966,7 @@ gantt
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  Then un-comment (replace USERNAME if different):
+  Then paste this in:
 
   <div align="center">
     <img width="100%" src="https://raw.githubusercontent.com/NEERAJSINGHDANU07/NEERAJSINGHDANU07/output/github-snake-dark.svg" alt="contribution snake"/>
