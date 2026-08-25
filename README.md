@@ -1,201 +1,169 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Neeraj%20Singh%20Danu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20•%20AI%20Enthusiast%20•%20Python%20Developer&descAlignY=58&descSize=18"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Neeraj%20Singh%20Danu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20•%20AI%20Enthusiast%20•%20Python%20Developer&descAlignY=58&descSize=18"/>
+  <a href="https://github.com/NEERAJSINGHDANU07">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG"/>
+  </a>
 
-<a href="https://github.com/NEERAJSINGHDANU07">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG"/>
-</a>
+  <br/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=NEERAJSINGHDANU07&label=Profile+Views&color=0e75b6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/NEERAJSINGHDANU07?label=Followers&style=flat-square&color=blueviolet"/>
-<img src="https://img.shields.io/badge/Focus-Data%20Science-success?style=flat-square"/>
-
+  <img src="https://komarev.com/ghpvc/?username=NEERAJSINGHDANU07&label=Profile+Views&color=0e75b6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/NEERAJSINGHDANU07?label=Followers&style=flat-square&color=blueviolet"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-success?style=flat-square"/>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🌌 NEURAL CORE - Profile Initialization
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+**(Animated Hero Section - See Notes Below for Animation Implementation)**
 
-```yaml
-name:      "Neeraj Singh Danu"
-location:  "Haldwani, Uttarakhand, India 🇮🇳"
-role:      "Aspiring Data Scientist"
-languages: ["Python", "SQL"]
-learning:  ["Machine Learning", "Generative AI", "Power BI"]
-mission:   "Learn continuously, build consistently."
-```
+<div style="position: relative; overflow: hidden;">
+  <img src="path/to/hero-background.jpg" alt="Futuristic Background" style="width: 100%; height: auto; position: absolute; top: 0; left: 0; opacity: 0.5;">
+  <div style="position: relative; z-index: 2; padding: 20px; text-align: center;">
+    <h1 style="font-size: 3.5em; color: #36BCF7; text-shadow: 0 0 10px #36BCF7;">NEERAJ SINGH DANU</h1>
+    <h2 style="font-size: 1.8em; color: #ffffff; margin-top: 10px;">DATA SCIENTIST • AI ENTHUSIAST • PYTHON DEVELOPER</h2>
+    <p style="font-size: 1.2em; color: #cccccc; margin-top: 15px;">Turning Data into Intelligence.</p>
+    <img src="path/to/ai-brain.svg" alt="AI Brain" style="width: 200px; position: absolute; top: 20%; right: 10%; animation: brainPulse 2s infinite;">
+  </div>
+</div>
 
-- 🌱 Currently mastering **Machine Learning** & **Generative AI**
-- 📊 I love transforming raw data into meaningful insights through **EDA** and **visualization**
-- 🤝 Open to collaborating on **Data Analytics**, **Python**, and **AI** projects
-- 💡 *"Every dataset tells a story — my job is to uncover it."*
-- 📫 Reach me at **neerajdanu07@gmail.com**
-
-<br clear="right"/>
+<!-- Animation Example (Needs CSS - See Notes)
+@keyframes brainPulse {
+  0% { opacity: 0.8; }
+  50% { opacity: 1; }
+  100% { opacity: 0.8; }
+}
+-->
 
 ---
 
-## 🛠️ Tech Stack
+## 👤 IDENTITY CARD - Glassmorphism
 
-<div align="center">
+**(3D Glassmorphism Profile Card)**
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Platforms
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+<div style="background: rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
+  <h3 style="color: #ffffff; font-size: 1.5em;">Neeraj Singh Danu</h3>
+  <p style="color: #cccccc; font-size: 1.1em;">Aspiring Data Scientist</p>
+  <hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.3);">
+  <p style="color: #cccccc; font-size: 1.1em;"><b>Location:</b> Haldwani, Uttarakhand, India 🇮🇳</p>
+  <p style="color: #cccccc; font-size: 1.1em;"><b>Focus:</b> Data Science | Machine Learning | Generative AI</p>
+  <p style="color: #cccccc; font-size: 1.1em;"><b>Languages:</b> Python | SQL</p>
+  <p style="color: #cccccc; font-size: 1.1em;"><b>Mission:</b> "Learn continuously. Build consistently. Improve relentlessly."</p>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💻 TERMINAL INITIALIZATION - Animated
 
-<table>
-<tr>
-<td width="50%">
+**(Animated Terminal - See Notes Below for Animation Implementation)**
 
-### 🐍 Learning Core Python
-Structured notebooks covering Python from basics to OOP, error handling & file I/O.
 
-`Python` `Jupyter`
+Initializing Data Scientist profile... Loading Python... [██████████████████] 100% Loading Machine Learning... [██████████░░░░░] 50% Loading AI... [██████░░░░░░░░░] 30% Analyzing datasets... Building predictive models... Turning data into insights... System Ready.
 
-</td>
-<td width="50%">
-
-### 📚 Python Libraries for Data Science
-Hands-on guides for NumPy, Pandas, Matplotlib, Seaborn & scikit-learn.
-
-`Pandas` `NumPy` `Visualization`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Statistics for Data Science
-Probability, hypothesis testing, regression, ANOVA & distributions.
-
-`Statistics` `Analytics`
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing skills, projects & journey.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://neerajsinghdanu07.github.io/neerajsinghdanu.github.io/)
-[![Live Projects](https://img.shields.io/badge/🚀_Live_Projects-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://agent-6a0ab1f8ca1265c--iridescent-gumdrop-325a80.netlify.app)
-
-</div>
 
 ---
 
-## 📊 Learning Progress
+## 📊 ABOUT ME - Data Science Dashboard
 
-```text
-Python              ████████████████░░░░  85%
-Statistics          ███████████████░░░░░  75%
-SQL                 ██████████████░░░░░░  70%
-Power BI            ████████████░░░░░░░░  60%
-Machine Learning    ███████████░░░░░░░░░  55%
-Deep Learning       ████░░░░░░░░░░░░░░░░  20%
-```
+**(Interactive Dashboard - Use Icons and Small Animations)**
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NEERAJSINGHDANU07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEERAJSINGHDANU07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NEERAJSINGHDANU07&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NEERAJSINGHDANU07&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NEERAJSINGHDANU07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-
-</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+  <div style="background: rgba(255, 255, 255, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="path/to/profile-icon.svg" alt="Profile Icon" style="width: 30px; vertical-align: middle; margin-right: 10px;">
+    <h3>PROFILE</h3>
+    <p><b>NAME</b> → Neeraj Singh Danu</p>
+  </div>
+  <div style="background: rgba(255, 255, 255, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="path/to/role-icon.svg" alt="Role Icon" style="width: 30px; vertical-align: middle; margin-right: 10px;">
+    <h3>ROLE</h3>
+    <p><b>Aspiring Data Scientist</b></p>
+  </div>
+  </div>
 
 ---
 
-## 🗺️ Roadmap 2025 → 2027
+## 🧠 MY DATA SCIENCE MINDSET - Pipeline
 
-```mermaid
-graph LR
-    A[🐍 Python] --> B[📊 Data Analysis]
-    B --> C[📈 Statistics]
-    C --> D[🗄️ SQL & Power BI]
-    D --> E[🤖 Machine Learning]
-    E --> F[🧠 Deep Learning]
-    F --> G[💬 NLP & GenAI]
-    G --> H[☁️ Cloud & MLOps]
-```
+**(3D Pipeline Visualization - SVG/Animated Path)**
+
+**(Needs SVG Path and Animation - See Notes Below)**
 
 ---
 
-## 🐍 Contribution Snake
+## 🛠️ TECH STACK - Technology Cloud
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+**(3D Technology Cloud - See Notes for SVG/Animation)**
+
+**(Categorized Cards with Icons and Hover Effects)**
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 LEARNING ROADMAP 2025 → 2027
 
-<div align="center">
+**(Animated Timeline - See Notes for SVG/Animation)**
+
+---
+
+## 📈 SKILL LEVELS - Futuristic HUD
+
+**(Animated Progress Bars/Circular Gauges - See Notes for Animation)**
+
+---
+
+## 🏆 FEATURED PROJECTS - 3D Project Cards
+
+**(Project Cards with Thumbnails and Links)**
+
+---
+
+## 📊 GITHUB ANALYTICS - Premium Dashboard
+
+**(Shields.io and GitHub API Integration)**
+
+---
+
+## 🐍 CONTRIBUTION SNAKE - 3D Effect
+
+**(GitHub Contribution Snake - See Notes for Implementation)**
+
+---
+
+## 🌐 CONNECT WITH ME - Social Hub
+
+**(Social Media Icons with Hover Effects)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajsinghdanu)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@CODEVERTEX-k7c)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajdanu07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neerajsinghdanu07.github.io/neerajsinghdanu.github.io/)
 
-</div>
-
 ---
 
 <div align="center">
-
-### 💭 *"The best way to predict the future is to build it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
-
-**⭐ If you like my work, consider following my journey!**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+  ⭐ If you like my work, consider following my journey!
 </div>
+
+IMPORTANT NOTES & IMPLEMENTATION DETAILS:
+
+Asset Paths: Replace
+"path/to/..."
+
+with the actual URLs or local paths to your SVG, PNG, or GIF files. You'll need to create or source these assets to match the described visual elements. GitHub Pages can serve static assets directly.
+CSS Animations: The animation examples (
+@keyframes
+
+) are placeholders. You'll need to add a
+<style>
+
+block to your README or use external CSS to define these animations and apply them to the appropriate elements. For example:
+```html
+<style>
+@keyframes brainPulse {
+  0% { opacity: 0.8; }
+  50% { opacity: 1; }
+  100% { opacity: 0.8; }
+}
+</style>
+```
